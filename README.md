@@ -11,13 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasPedro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr>
+  
 <div align="center">
-
-> A snake game created out of my Github contributions graph
 [![Generate SVG image](https://github.com/LeonidasPedro/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
 
-## Preview
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+<img align="center" width="100%" src="https://LeonidasPedro.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 
 </div>
