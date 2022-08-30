@@ -1,8 +1,11 @@
-<h1>Olá!! Eu sou o Leônidas 👋<h1/>
+
 <div>
-- 🔭 Desenvolvimento web
-- 🌱 Trabalhando com Vue - JavaScript
-- 📫 Você pode me encontrar em: leonidasbaptistelli1@gmail.com
+  <h1>Olá!! Eu sou o Leônidas 👋<h1/>
+    <ul>
+      <li> 🔭 Desenvolvimento web<li/>
+      <li> 🌱 Trabalhando com Vue - JavaScript<li/>
+      <li>📫 Você pode me encontrar em: leonidasbaptistelli1@gmail.com <li/>
+    <ul/>
 </div>
 <hr>
 <div align="center">
