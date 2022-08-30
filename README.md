@@ -23,6 +23,6 @@
 ## Trophies
 
 <p align="center" width="100%">
-    <img src="https://github-profile-trophy.vercel.app/?username=scriptex&theme=onedark&row=1&no-bg=true&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?LeonidasPedro=scriptex&theme=onedark&row=1&no-bg=true&no-frame=true" />
 </p>
 </div>
