@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Leônidas 👋
 
 - 🔭 Gamado em desenvolvimento web
-- 🌱 Trabalhando com JavaScript
+- 🌱 Trabalhando com Vue - JavaScript
 - 📫 Você pode me encontrar em: leonidasbaptistelli1@gmail.com
 <hr>
 <div align="center">
