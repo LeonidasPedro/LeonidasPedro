@@ -1,6 +1,5 @@
-<div>
 <h1>Olá!! Eu sou o Leônidas 👋<h1/>
-
+<div>
 - 🔭 Desenvolvimento web
 - 🌱 Trabalhando com Vue - JavaScript
 - 📫 Você pode me encontrar em: leonidasbaptistelli1@gmail.com
