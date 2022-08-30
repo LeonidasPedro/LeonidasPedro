@@ -12,9 +12,4 @@
 </div>
 <hr>
   
-<div align="center">
-[![Generate SVG image](https://github.com/LeonidasPedro/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
 
-<img align="center" width="100%" src="https://LeonidasPedro.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
-
-</div>
