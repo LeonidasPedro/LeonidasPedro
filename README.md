@@ -1,9 +1,10 @@
+<div>
 ### Olá!! Eu sou o Leônidas 👋
 
 - 🔭 Desenvolvimento web
 - 🌱 Trabalhando com Vue - JavaScript
 - 📫 Você pode me encontrar em: leonidasbaptistelli1@gmail.com
-
+</div>
 <hr>
 <div align="center">
   <a href="https://github.com/LeonidasPedro">
