@@ -9,4 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasPedro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr>
+<div> 
 [![trophy](https://github-profile-trophy.vercel.app/?LeonidasPedro=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<div/>
