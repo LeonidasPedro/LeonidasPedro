@@ -3,6 +3,7 @@
 - 🔭 Gamado em desenvolvimento web
 - 🌱 Trabalhando com Vue - JavaScript
 - 📫 Você pode me encontrar em: leonidasbaptistelli1@gmail.com
+
 <hr>
 <div align="center">
   <a href="https://github.com/LeonidasPedro">
@@ -11,10 +12,9 @@
 </div>
 <hr>
 <div align="center">
- # Github contributions Snake game
 
 > A snake game created out of my Github contributions graph
-[![Generate SVG image](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
+[![Generate SVG image](https://github.com/LeonidasPedro/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
 
 ## Preview
 
