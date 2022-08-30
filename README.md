@@ -10,5 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasPedro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr>
+ [![Generate SVG image](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
 
 
