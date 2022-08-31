@@ -18,8 +18,8 @@ Estudante do segundo período de Sistemas de Informação na [Unochapecó](https
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div>
+
   ![Snake animation](https://github.com/LeonidasPedro/LeonidasPedro/blob/output/github-contribution-grid-snake.svg)
-<div/>
+
  
 
