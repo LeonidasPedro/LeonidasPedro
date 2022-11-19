@@ -21,6 +21,14 @@ Estudante do segundo período de Sistemas de Informação na [Unochapecó](https
 </div>
 
   ![Snake animation](https://github.com/LeonidasPedro/LeonidasPedro/blob/output/github-contribution-grid-snake.svg)
+  
+ 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=pepz1n&&style=flat-square)  
+  
+
+<br/>  
 
  
 
