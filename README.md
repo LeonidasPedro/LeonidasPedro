@@ -25,7 +25,7 @@ Estudante do segundo período de Sistemas de Informação na [Unochapecó](https
  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=pepz1n&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=LeonidasPedro&&style=flat-square)  
   
 
 <br/>  
