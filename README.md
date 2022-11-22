@@ -21,14 +21,15 @@ Estudante do segundo período de Sistemas de Informação na [Unochapecó](https
   ![Snake animation](https://github.com/LeonidasPedro/LeonidasPedro/blob/output/github-contribution-grid-snake.svg)
   
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeonidasPedro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasPedro&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=LeonidasPedro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%" />
 
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasPedro&hide_border=true&layout=compact" align="left" style="width: 59%" />
+
+</div>
   
  
 <br/>  
