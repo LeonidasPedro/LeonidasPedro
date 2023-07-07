@@ -1,5 +1,5 @@
 ## Olá!! Eu sou o Leônidas 
-Estudante do segundo período de Sistemas de Informação na [Unochapecó](https://www.unochapeco.edu.br/), estagiário no Centro de Residência em Software - [Pollen Parque](https://obs.unochapeco.edu.br/)
+Estudante do segundo período de Sistemas de Informação na [Unochapecó](https://www.unochapeco.edu.br/), Programador Rails no Observatório - [Pollen Parque](https://obs.unochapeco.edu.br/)
 
 <div align="right">
   <a href="https://www.instagram.com/leonidaspedro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
