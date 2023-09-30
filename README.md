@@ -2,7 +2,7 @@
 Estudante do segundo período de Sistemas de Informação na [Unochapecó](https://www.unochapeco.edu.br/), Programador Rails no Observatório - [Pollen ](https://obs.unochapeco.edu.br/)
 
 
- <div style="display: inline_block" align="right"><br>
+ <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vue-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
