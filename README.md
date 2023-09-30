@@ -1,11 +1,6 @@
 ## Olá!! Eu sou o Leônidas 
 Estudante do segundo período de Sistemas de Informação na [Unochapecó](https://www.unochapeco.edu.br/), Programador Rails no Observatório - [Pollen ](https://obs.unochapeco.edu.br/)
 
-<div align="right">
-  <a href="https://www.instagram.com/leonidaspedro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonidasbaptistelli1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonidaspedro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
  <div style="display: inline_block" align="right"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
