@@ -15,7 +15,7 @@ Estudante do quarto período de Sistemas de Informação na [Unochapecó](https:
 <br/>
 <div align="center">
   <a href="https://github.com/LeonidasPedro">
-  <img height="180em" style="border: 10px solid #480102;" src="//imgur.com/a/N2WAurY"/>
+  <img height="180em" style="border: 10px solid #480102;" src="https://imgur.com/a/N2WAurY"/>
   <img height="180em" style="margin: 20px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasPedro&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
 
