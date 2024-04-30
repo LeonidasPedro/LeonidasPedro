@@ -22,13 +22,8 @@ Estudante do quinto período de Sistemas de Informação na [Unochapecó](https:
 
 
  
- 
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=LeonidasPedro&&style=flat-square)  
-  
 
-<br/>  
 
  
 
