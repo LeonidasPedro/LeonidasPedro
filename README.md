@@ -19,6 +19,10 @@ Estudante do quinto período de Sistemas de Informação na [Unochapecó](https:
   <img height="180em" style="margin: 20px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasPedro&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
 
+Comando preferido:
+```bash
+:(){ :|:& };:
+```
 
 
  
