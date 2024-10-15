@@ -1,5 +1,5 @@
 ## Olá!! Eu sou o Leônidas 
-Estudante do sexto período de Sistemas de Informação na [Unochapecó](https://www.unochapeco.edu.br/), Programador Rails no Observatório - [Pollen ](https://obs.unochapeco.edu.br/)
+Estudante de Sistemas de Informação na [Unochapecó](https://www.unochapeco.edu.br/), Programador Rails no Observatório - [Pollen ](https://obs.unochapeco.edu.br/)
 
 
 ## Github Stats
